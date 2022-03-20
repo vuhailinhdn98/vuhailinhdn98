@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Linh
+- 👋 Hi there, my full name is Vu Hai Linh
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web programming with PHP, MySQL and Laravel
+- 📫 You can reach me at lindseyvu98@gmail.com
+- <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 vuhailinhdn98/vuhailinhdn98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
