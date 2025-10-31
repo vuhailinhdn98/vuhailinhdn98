@@ -1,6 +1,5 @@
 - 👋 Hi there, my full name is Vu Hai Linh
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Web programming with PHP, MySQL and Laravel
 - 📫 You can reach me at lindseyvu98@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
